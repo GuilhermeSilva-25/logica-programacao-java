@@ -1,0 +1,14 @@
+# Arquivos compilados do Java
+*.class
+
+# Diretórios e arquivos de IDEs (caso você use Eclipse, IntelliJ ou VS Code no futuro)
+.vscode/
+.idea/
+*.iml
+*.project
+*.classpath
+*.settings/
+
+# Arquivos de sistema operacional (Mac/Windows)
+.DS_Store
+Thumbs.db
