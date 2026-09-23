@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Main {
+public class Main1000 {
     public static void main(String[] args) throws IOException {
         var greetingProvider = new HelloWorldGreeting();
         var outputDevice = new StandardConsoleOutput();
