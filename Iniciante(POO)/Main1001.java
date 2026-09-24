@@ -42,7 +42,7 @@ class ConsoleInputReader implements InputReader {
 
     @Override
     public int readNextInt() {
-        return scanner.nextInt(); // Lê o próximo número inteiro digitado
+        return scanner.nextInt();
     }
 }
 
